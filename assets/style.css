@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+/*========== COLORS ==========*/
+:root {
+  --first-color: hsl(97, 13%, 80%) 
+  --text-color: hsl(201, 20%, 23%);
+  --text-color-light: hsl(19, 64%, 54%); 
+  --color: #344d50;  
+}
+/* hsl(133, 18%, 59%) */
+/* hsl(186, 21%, 26%)  */
+/* hsl(19, 64%, 54%) */
+/*   - container color */
